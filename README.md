@@ -1,21 +1,31 @@
-# Sampo Mannila
+Sampo Mannila — Voitto.netin päätoimittaja
 
-Online casino analyst and writer.
+Hei! Olen Sampo Mannila, Voitto.netin (Suomen rahapelimedia) päätoimittaja. Johdan julkaisu- ja faktantarkistusprosesseja ja kirjoitan erityisesti suomalaisen rahapelijärjestelmän uudistuksesta (lisenssimalli 2027), vastuullisesta pelaamisesta ja markkinan kehityksestä.
 
-## Websites
+Kotipaikka: Jyväskylä, Suomi
 
-- https://voitto.net
-- https://sampokasino.fi/
+Fokus
+- Faktoihin nojaava, lähteistetty sisältö
+- Kanavointiaste ja sääntelyn vaikuttavuus
+- Lukijan kannalta käytännöllinen tieto
 
-## Expertise
+Toimitukselliset käytännöt
+- Voitto.netin toimitus- ja faktantarkistusperiaatteet julkaistaan avoimesti repossa alla.
+- Emme anna oikeudellista neuvontaa; tarkista ajantasaiset lakiviitteet virallisista lähteistä.
 
-- Casino bonuses
-- Online casinos
-- Gambling industry
-- Player behavior
-- iGaming marketing
+Pinned / keskeiset repositoriot
+- Voitto.net – toimitukselliset periaatteet: https://github.com/SampoMannila/voitto-net-editorial
+- Suomen rahapelilaki 2027 – faktat ja lähteet: https://github.com/SampoMannila/suomi-rahapelilaki-2027
 
-## Profiles
+Julkaisut ja sidonnaisuudet
+- Kirjoitan myös: sampokasino.fi, pikakasinot.fi, peli-casino.fi, suomenkielisetnettikasinot.com
+- Sisältö kussakin julkaisussa tuotetaan sen omien periaatteiden mukaisesti.
 
-- X: @MannilaSampo
-- GitHub Pages: https://sampomannila.github.io
+Sosiaalinen media
+- X: https://x.com/MannilaSampo
+- Sijoitustieto: https://sijoitustieto.fi/profiili/sampo-mannila
+- Medium: https://medium.com/@mannilasampo
+- Blogi: https://sampomannila.blogspot.com
+
+Yhteys
+- Palaute ja korjausehdotukset: avaa issue repossa tai ota yhteyttä sosiaalisen median kautta.
