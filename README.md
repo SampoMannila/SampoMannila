@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sampo Mannila
 
-<!--
-**SampoMannila/SampoMannila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Online casino analyst and writer.
 
-Here are some ideas to get you started:
+## Websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://voitto.net
+
+## Expertise
+
+- Casino bonuses
+- Online casinos
+- Gambling industry
+- Player behavior
+- iGaming marketing
+
+## Profiles
+
+- X: @MannilaSampo
+- GitHub Pages: https://sampomannila.github.io
