@@ -5,6 +5,7 @@ Online casino analyst and writer.
 ## Websites
 
 - https://voitto.net
+- https://sampokasino.fi/
 
 ## Expertise
 
